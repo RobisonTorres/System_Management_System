@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: medium;
+    background-image: url("https://www.newcastlesys.com/hs-fs/hubfs/2022/0406/220406-how-to-keep-your-warehouse-organized.jpeg?width=1500&name=220406-how-to-keep-your-warehouse-organized.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    width: 375px;
+    text-align: center;
+    margin: auto;
+    font-size: 25px;
+    background-color: #f9f9f9;
+    border: solid;
+    border-radius: 15px;
+}
+
+#Title {
+    text-align: left;
+    font-size: 18px;
+}
+
+.menu {
+    color: black;
+    background-color: rgb(145, 144, 144);
+    padding-left: 20px;
+    border: solid;
+    width: 375px;
+    margin: 4px auto;
+    border-radius: 15px;
+}
+
+input[type="text"] {
+    width: 49%;
+    border-radius: 5px
+}
+
+input[type="number"] {
+    width: 25%;
+    border-radius: 5px
+}
+
+input[type="submit"]{
+    width: 75px;
+    height: 30px;
+    background-color: green;
+    border-color: green;
+    border-radius: 5px;
+}
+
+input[type="button"]{
+    width: 75px;
+    height: 30px;
+    background-color: green;
+    border-color: green;
+    border-radius: 5px;
+}
+
+#styled-table, #hide {
+    width: 90%;
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin: 10px auto;
+    font-size: 18px;
+    margin: 5px 0px 10px 0px;
+    table-layout: fixed;
+}
+
+#styled-table th {
+    text-align: center;
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+}
+
+#hide td:first-child {
+    text-align: left;
+}
+
+#hide td {
+    text-align: center;
+    border: 1px solid black;
+}
+
+#hide tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+#center_button {
+
+    margin-right: 20px;
+    text-align: center;
+}
