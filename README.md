@@ -48,3 +48,5 @@ To use this repository, follow these steps:
 After running the flaskIntegration.py, and clicking on the url link you will be able to access the app's menu on your browser:
 
 <br>
+
+<p align="center"><img text-align:center src=https://github.com/user-attachments/assets/b813ce4e-fac8-4bf9-b1c8-f0d86b61821e></p>
